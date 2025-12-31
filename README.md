@@ -35,7 +35,6 @@ This project is a simple Spring Boot REST API that demonstrates basic backend de
 3. Access the API
    
    http://localhost:8080/students
-   
    http://localhost:8080/students/{studentId}
 
 
@@ -45,3 +44,12 @@ This project is a simple Spring Boot REST API that demonstrates basic backend de
 - Spring Boot
 - REST API
 - Docker
+
+
+## 📄 API Documentation (Swagger)
+
+This project includes interactive API documentation powered by Swagger.
+You can explore and test all endpoints directly in the browser:
+
+  - http://localhost:8080/swagger-ui/index.html
+  - OpenAPI JSON: http://localhost:8080/v3/api-docs
